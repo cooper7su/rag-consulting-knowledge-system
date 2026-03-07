@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local macOS metadata / validation artifacts
+.DS_Store
+data_processed/_smoke*
+data_raw_test/

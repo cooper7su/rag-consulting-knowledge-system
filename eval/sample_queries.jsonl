@@ -1,0 +1,3 @@
+{"query": "What themes appear in the US AI action plan?", "expected_docs": ["US_AI_Action_Plan_2025"]}
+{"query": "What does the UK report focus on regarding AI regulation?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation"]}
+{"query": "Summarize the main policy and strategic implications of AI adoption."}

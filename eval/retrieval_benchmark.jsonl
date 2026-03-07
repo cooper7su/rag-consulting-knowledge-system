@@ -1,0 +1,12 @@
+{"category": "policy_regulation", "query": "What themes appear in the US AI action plan?", "expected_docs": ["US_AI_Action_Plan_2025"]}
+{"category": "policy_regulation", "query": "What does the UK report focus on regarding AI regulation?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation"]}
+{"category": "governance_standards", "query": "How do the documents discuss international cooperation on AI governance?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation", "OECD_AI_in_Society"]}
+{"category": "strategy_impact", "query": "What are the risks and policy concerns around AI and labour markets?", "expected_docs": ["OECD_AI_in_Society"]}
+{"category": "governance_standards", "query": "What do the reports say about standards, assurance, or trustworthy AI?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation", "OECD_AI_in_Society"]}
+{"category": "strategy_impact", "query": "How is AI linked to economic competitiveness or national strategy?", "expected_docs": ["US_AI_Action_Plan_2025", "OECD_AI_in_Society"]}
+{"category": "governance_standards", "query": "What does the corpus say about global interoperability and international engagement?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation"]}
+{"category": "governance_standards", "query": "Which document discusses an AI Policy Observatory?", "expected_docs": ["OECD_AI_in_Society"]}
+{"category": "policy_regulation", "query": "Which document emphasizes a pro-innovation regulatory approach?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation"]}
+{"category": "policy_regulation", "query": "Which source provides an AI action plan for the United States?", "expected_docs": ["US_AI_Action_Plan_2025"]}
+{"category": "strategy_impact", "query": "What evidence discusses defense or national security adoption of AI?", "expected_docs": ["US_AI_Action_Plan_2025"]}
+{"category": "governance_standards", "query": "What do the documents say about public trust and confidence in AI?", "expected_docs": ["UK_AI_Regulation_Pro_Innovation", "OECD_AI_in_Society"]}

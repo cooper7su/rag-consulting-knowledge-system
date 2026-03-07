@@ -1,0 +1,5 @@
+{"query": "Which document emphasizes a pro-innovation regulatory approach?", "recommended_mode": "hybrid", "demo_goal": "Shows exact policy naming and clean citation behavior."}
+{"query": "What themes appear in the US AI action plan?", "recommended_mode": "hybrid", "demo_goal": "Shows hybrid retrieval outperforming pure vector on title-like policy queries."}
+{"query": "How do the documents discuss international cooperation on AI governance?", "recommended_mode": "hybrid", "demo_goal": "Shows cross-document retrieval and evidence organization."}
+{"query": "What do the reports say about standards, assurance, or trustworthy AI?", "recommended_mode": "hybrid", "demo_goal": "Shows mixed-source evidence and narrower citation snippets."}
+{"query": "What are the risks and policy concerns around AI and labour markets?", "recommended_mode": "vector", "demo_goal": "Useful counterexample where broad thematic retrieval is still imperfect."}

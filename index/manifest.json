@@ -1,0 +1,41 @@
+{
+  "index_manifest_version": 2,
+  "requested_model": "local-hash-v1",
+  "effective_model": "local-hash-v1",
+  "backend": "local-hash",
+  "embedding_dim": 1536,
+  "num_chunks": 592,
+  "source_chunks": {
+    "path": "data_processed/chunks.jsonl"
+  },
+  "source_chunks_sha256": "28ab75e5f99a06631804a466af790cea557e2cbb0b0b136963d96f1988bf1170",
+  "chunk_schema_version": 2,
+  "metadata_columns": [
+    "faiss_id",
+    "chunk_schema_version",
+    "doc_id",
+    "title",
+    "title_source",
+    "source",
+    "source_source",
+    "date",
+    "date_source",
+    "file_name",
+    "file_path",
+    "doc_total_pages",
+    "chunk_id",
+    "section",
+    "page_start",
+    "page_end",
+    "text"
+  ],
+  "required_index_files": [
+    "faiss.index",
+    "meta.parquet",
+    "manifest.json"
+  ],
+  "source_ingest_manifest": {
+    "path": "data_processed/ingest_manifest.json"
+  },
+  "source_ingest_manifest_sha256": "969ba81b2bf0ca45a49f09b5673cf82ce466d86f5714fbbb9fe84a1dc1e20058"
+}
