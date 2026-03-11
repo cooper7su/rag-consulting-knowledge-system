@@ -1,4 +1,5 @@
 # RAG Consulting Knowledge System
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个面向咨询研究、行业分析和政策阅读场景的端到端 RAG 项目。它把 PDF 报告重建为可复现语料，完成清洗、分块、向量索引、`vector` / `hybrid` 检索，并输出带证据引用的结构化回答。
 
